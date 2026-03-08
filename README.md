@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning lua fivem developing as well as html, css and js in addition to that I'm learning because I'm interested in web developing and I want to do it in the future of course and I'm using AI tools while I'm learning<br>
+I'm currently learning lua fivem developing as well as html, css and js in addition to that I'm learning because I'm interested in web developing and I want to do it in the future.<br>
 
 
 # 💻 Tech Stack:
